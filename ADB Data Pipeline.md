@@ -6,6 +6,8 @@
 ---
 ## Concepts
 
+[Resource Principal](Resource%20Principal.md)
+
 ### 1.1 Automated Data Transfer between Object Store and Autonomous Database
 - Normally we use `DBMS_CLOUD.COPY_DATA` for loading and `DBMS_CLOUD.EXPORT_DATA` for exporting.
 - Data Pipeline allows us to automate these manual processes through `DBMS_CLOUD_PIPELINE` interface.
