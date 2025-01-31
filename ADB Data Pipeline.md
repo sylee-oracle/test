@@ -1,5 +1,3 @@
-# ADB Data Pipeline
-
 - Created: `=dateformat(this.file.ctime, "DDDD, HH:mm")`
 - Last Modified: `=dateformat(this.file.mtime, "DDDD, HH:mm")`
 - Tags: #IT #Oracle #AutonomousDB
