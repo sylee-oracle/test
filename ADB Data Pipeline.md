@@ -1,12 +1,10 @@
 # ADB Data Pipelines
 
-- Created: `=dateformat(this.file.ctime, "DDDD, HH:mm")`
-- Last Modified: `=dateformat(this.file.mtime, "DDDD, HH:mm")`
-- Tags: #IT #Oracle #AutonomousDB
+- #IT #Oracle #AutonomousDB
 ---
 ## Concepts
 
-[Resource Principal](Resource%20Principal.md)
+[Resource Principal](Folder1/Resource%20Principal.md)
 
 ### 1.1 Automated Data Transfer between Object Store and Autonomous Database
 - Normally we use `DBMS_CLOUD.COPY_DATA` for loading and `DBMS_CLOUD.EXPORT_DATA` for exporting.
