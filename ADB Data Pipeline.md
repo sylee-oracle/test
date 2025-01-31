@@ -6,6 +6,7 @@
 
 [Resource Principal](Folder1/Resource%20Principal.md)
 
+![](Pasted%20image%2020250131170300.png)
 ### 1.1 Automated Data Transfer between Object Store and Autonomous Database
 - Normally we use `DBMS_CLOUD.COPY_DATA` for loading and `DBMS_CLOUD.EXPORT_DATA` for exporting.
 - Data Pipeline allows us to automate these manual processes through `DBMS_CLOUD_PIPELINE` interface.
